@@ -3,7 +3,9 @@
 
 # BIENVENIDO GRACIAS POR APOYAR EL PROYECTO 
 
-'''
+### 🔮 INSTALACION: 🔮
+
+```
 apt-get install python
 
 pkg install git -y
@@ -17,4 +19,4 @@ ls
 chmod +x bin.sh
 
 ./bin.sh
-'''
+```
