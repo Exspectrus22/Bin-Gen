@@ -1,2 +1,3 @@
-# Bin-Gen
-Scrip henerador de bines 
+######GENERADOR DE BINES 
+
+######CREADO POR EXSPECTRUS 
